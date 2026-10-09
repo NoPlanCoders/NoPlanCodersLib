@@ -1,0 +1,37 @@
+# Gradle / build outputs
+.gradle/
+build/
+out/
+
+# Minecraft Forge run directory
+run/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and crash reports
+*.log
+*.log.gz
+crash-reports/
+
+# Local archives / release artifacts
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.zip
+*.7z
+*.rar
+__pycache__/
+wiki_data.html
+wiki_decoded.html
+read_wiki.py
+cards.html
+*.webp
